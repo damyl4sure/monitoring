@@ -1,0 +1,6 @@
+nginx:
+  uri: "nginx1://nginx1:80"
+
+serviceMonitor:
+  additionalLabels:
+    release: prometheus
