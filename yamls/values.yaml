@@ -1,4 +1,4 @@
-nginx:
+nginx1:
   uri: "nginx1://nginx1:80"
 
 serviceMonitor:
